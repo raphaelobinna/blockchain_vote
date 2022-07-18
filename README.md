@@ -11,3 +11,12 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+# A simple blockchain voting platform 
+
+- owner creates the poll and proposal 
+- the owner adds voters 
+- the owner starts the voting 
+- voters make their votes 
+- the owner ends the voting process 
+- the final result is displayed
